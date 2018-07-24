@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name=" " verbose="2">
+	
+	<test name="  ">
+		<packages>
+			<package name=""/>
+		</packages>
+	</test>
+
+	<test name="">
+		<packages>
+			<package name=""/>
+		</packages>
+	</test>
+
+</suite>
